@@ -46,5 +46,5 @@
 
 # Округление функция round
 
-а = 5.65
-print(round(c))
+с = 5.65
+print(round(с))
